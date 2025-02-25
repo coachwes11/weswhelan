@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Wes Whelan
 ---
-
+A dog's best friend
